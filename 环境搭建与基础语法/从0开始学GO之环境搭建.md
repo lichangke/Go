@@ -1,6 +1,6 @@
 [TOC]
 
-
+更多参见：[从0开始学GO之目录](https://blog.csdn.net/leacock1991/article/details/112853343)
 
 ## Go语言环境安装（Win）
 
@@ -70,3 +70,7 @@ func main() {
 ```
 
 ![image-20210119174210704](\Pictures\从0开始学GO之环境搭建\G_从0开始学GO之环境搭建.png)
+
+
+
+个人能力有限，如有错误或者其他建议，敬请告知欢迎探讨，谢谢!
