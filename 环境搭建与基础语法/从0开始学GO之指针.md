@@ -56,9 +56,9 @@ func main() {
 
 指针数组：
 
-> ```
-> var ptr [Num]*T;  // T为类型
-> ```
+
+> var ptr [Num]*T  // T为类型
+
 
 
 
@@ -110,9 +110,9 @@ func main() {
 
 指向指针的指针:
 
-> ```
-> var ptr **int;
-> ```
+
+> var ptr **int
+
 
 
 
