@@ -297,7 +297,7 @@ func main() {
 	}
 	fmt.Println("==5===============")
 	// 以2倍容量重新分配底层数组，并复制原来的数据
-	s2[0] = -1  // 对 data 影响
+	s2[0] = -1  // 对 data 无影响
 	printSlice(s2) // len=14 cap=24 slice=[-1 1 2 3 0 1 2 3 4 5 6 7 8 9]
 	fmt.Println("data = ",data) // data =  [0 1 2 3 0 1]
 }
