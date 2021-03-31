@@ -10,7 +10,7 @@
 
 [https://golang.google.cn/dl/](https://golang.google.cn/dl/)
 
-![image-20210119165412491](\Pictures\从0开始学GO之环境搭建\A_从0开始学GO之环境搭建.png)
+![image-20210119165412491](Pictures/从0开始学GO之环境搭建/A_从0开始学GO之环境搭建.png)
 
 ### 环境变量
 
@@ -26,27 +26,27 @@
 
 #### GOPATH
 
-![image-20210119171424646](\Pictures\从0开始学GO之环境搭建\E_从0开始学GO之环境搭建.png)
+![image-20210119171424646](Pictures/从0开始学GO之环境搭建/E_从0开始学GO之环境搭建.png)
 
 当然你也可以放在系统变量中，并且配置多个路径
 
 #### GOBIN
 
-![image-20210119171629407](\Pictures\从0开始学GO之环境搭建\F_从0开始学GO之环境搭建.png)
+![image-20210119171629407](Pictures/从0开始学GO之环境搭建/F_从0开始学GO之环境搭建.png)
 
 #### GOROOT
 
-![image-20210119170814236](\Pictures\从0开始学GO之环境搭建\B_从0开始学GO之环境搭建.png)
+![image-20210119170814236](Pictures/从0开始学GO之环境搭建/B_从0开始学GO之环境搭建.png)
 
 我的安装根目录是`D:\Go` 
 
 **path** 中 添加 `%GOROOT%\bin`
 
-![image-20210119171005164](\Pictures\从0开始学GO之环境搭建\C_从0开始学GO之环境搭建.png)
+![image-20210119171005164](Pictures/从0开始学GO之环境搭建/C_从0开始学GO之环境搭建.png)
 
 通过cmd 输入<font color=red>`go env` </font> 或者 <font color=red>`go version` </font> 检查环境变量是否设置成功
 
-![image-20210119171229471](\Pictures\从0开始学GO之环境搭建\D_从0开始学GO之环境搭建.png)
+![image-20210119171229471](Pictures/从0开始学GO之环境搭建/D_从0开始学GO之环境搭建.png)
 
 
 
@@ -69,7 +69,7 @@ func main() {
 }
 ```
 
-![image-20210119174210704](\Pictures\从0开始学GO之环境搭建\G_从0开始学GO之环境搭建.png)
+![image-20210119174210704](Pictures/从0开始学GO之环境搭建/G_从0开始学GO之环境搭建.png)
 
 
 

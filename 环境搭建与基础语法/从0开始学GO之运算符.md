@@ -43,7 +43,7 @@ func main() {
 }
 ```
 
-![image-20210120152707752](\Pictures\从0开始学GO之运算符\A_从0开始学GO之运算符.png)
+![image-20210120152707752](Pictures/从0开始学GO之运算符/A_从0开始学GO之运算符.png)
 
 
 
@@ -99,7 +99,7 @@ func main() {
 }
 ```
 
-![image-20210120154517999](\Pictures\从0开始学GO之运算符\B_从0开始学GO之运算符.png)
+![image-20210120154517999](Pictures/从0开始学GO之运算符/B_从0开始学GO之运算符.png)
 
 
 

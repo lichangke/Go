@@ -223,7 +223,7 @@ func main() {
 }
 ```
 
-![image-20210223163132540](Pictures\从0开始学GO之接口interface\A_从0开始学GO之接口interface.png)
+![image-20210223163132540](Pictures/从0开始学GO之接口interface/A_从0开始学GO之接口interface.png)
 
 
 
@@ -261,7 +261,7 @@ func main() {
 }
 ```
 
-![image-20210223163333412](Pictures\从0开始学GO之接口interface\B_从0开始学GO之接口interface.png)
+![image-20210223163333412](Pictures/从0开始学GO之接口interface/B_从0开始学GO之接口interface.png)
 
 
 

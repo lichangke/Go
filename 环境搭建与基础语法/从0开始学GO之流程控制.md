@@ -46,7 +46,7 @@ func main() {
 }
 ```
 
-![image-20210120161454609](\Pictures\从0开始学GO之流程控制\A_从0开始学GO之流程控制.png)
+![image-20210120161454609](Pictures/从0开始学GO之流程控制/A_从0开始学GO之流程控制.png)
 
 
 
@@ -115,7 +115,7 @@ func main() {
 
 
 
-![image-20210120163711324](\Pictures\从0开始学GO之流程控制\B_从0开始学GO之流程控制.png)
+![image-20210120163711324](Pictures/从0开始学GO之流程控制/B_从0开始学GO之流程控制.png)
 
 参见  [理解Golang中的interface和interface{}](https://www.cnblogs.com/maji233/p/11178413.html)
 
@@ -165,7 +165,7 @@ end:
 }
 ```
 
-![image-20210120164807208](\Pictures\从0开始学GO之流程控制\C_从0开始学GO之流程控制.png)
+![image-20210120164807208](Pictures/从0开始学GO之流程控制/C_从0开始学GO之流程控制.png)
 
 
 
@@ -258,7 +258,7 @@ func main() {
 }
 ```
 
-![image-20210120170254274](\Pictures\从0开始学GO之流程控制\D_从0开始学GO之流程控制.png)
+![image-20210120170254274](Pictures/从0开始学GO之流程控制/D_从0开始学GO之流程控制.png)
 
 
 
@@ -316,7 +316,7 @@ end:
 }
 ```
 
-![image-20210120170934945](Pictures\从0开始学GO之流程控制\E_从0开始学GO之流程控制.png)
+![image-20210120170934945](Pictures/从0开始学GO之流程控制/E_从0开始学GO之流程控制.png)
 
 
 

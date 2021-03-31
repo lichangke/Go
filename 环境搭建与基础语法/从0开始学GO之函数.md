@@ -184,7 +184,7 @@ func main() {
 
 
 
-![image-20210121154810492](Pictures\从0开始学GO之函数\C_从0开始学GO之函数.png)
+![image-20210121154810492](Pictures/从0开始学GO之函数/C_从0开始学GO之函数.png)
 
 
 
@@ -231,7 +231,7 @@ func main() {
 
 
 
-![image-20210121162346233](Pictures\从0开始学GO之函数\F_从0开始学GO之函数.png)
+![image-20210121162346233](Pictures/从0开始学GO之函数/F_从0开始学GO之函数.png)
 
 
 
@@ -253,7 +253,7 @@ if __name__ == '__main__':
 
 输出：
 
-![image-20210121155344558](Pictures\从0开始学GO之函数\D_从0开始学GO之函数.png)
+![image-20210121155344558](Pictures/从0开始学GO之函数/D_从0开始学GO之函数.png)
 
 
 
@@ -300,7 +300,7 @@ func main() {
 }
 ```
 
-![image-20210121161226952](\Pictures\从0开始学GO之函数\E_从0开始学GO之函数.png)
+![image-20210121161226952](Pictures/从0开始学GO之函数/E_从0开始学GO之函数.png)
 
 
 
@@ -352,7 +352,7 @@ func main() {
 }
 ```
 
-![image-20210121165122239](Pictures\从0开始学GO之函数\G_从0开始学GO之函数.png)
+![image-20210121165122239](Pictures/从0开始学GO之函数/G_从0开始学GO之函数.png)
 
 
 
@@ -387,7 +387,7 @@ func main() {
 }
 ```
 
-![image-20210121173700484](Pictures\从0开始学GO之函数\H_从0开始学GO之函数.png)
+![image-20210121173700484](Pictures/从0开始学GO之函数/H_从0开始学GO之函数.png)
 
 
 
