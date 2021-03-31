@@ -48,7 +48,7 @@ func main() {
 }
 ```
 
-![image-20210121142002028](Pictures\从0开始学GO之函数\A_从0开始学GO之函数.png)
+![image-20210121142002028](Pictures/从0开始学GO之函数/A_从0开始学GO之函数.png)
 
 
 
@@ -89,7 +89,7 @@ func main() {
 }
 ```
 
-![image-20210121143635507](Pictures\从0开始学GO之函数\B_从0开始学GO之函数.png)
+![image-20210121143635507](Pictures/从0开始学GO之函数/B_从0开始学GO之函数.png)
 
 
 
